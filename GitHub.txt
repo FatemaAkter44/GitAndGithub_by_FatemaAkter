@@ -1,0 +1,1 @@
+Git is used for source code management, it's an open-source DevOps tool, and GitHub is a Git repository hosting platform. It is used widely for control and collaboration purposes. The platform is a place for storing code which is intellectual property, so it is very important to make it a safe space.
